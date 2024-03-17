@@ -1,4 +1,4 @@
-Hangman Game
+<h1>Hangman Game</h1>
 This is a simple implementation of the classic Hangman game built using Python and Tkinter for the graphical user interface. Hangman is a word guessing game where the player must guess letters in order to uncover a hidden word, with each incorrect guess resulting in a piece of a stick figure being drawn. The goal is to guess the word before the stick figure is completed.
 
 Features:
